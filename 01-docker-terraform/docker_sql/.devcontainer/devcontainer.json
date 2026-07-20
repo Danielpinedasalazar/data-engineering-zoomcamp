@@ -1,0 +1,8 @@
+{
+  "forwardPorts": [5432, 8085],
+  "portsAttributes": {
+    "5432": { "label": "postgres", "onAutoForward": "silent" },
+    "8085": { "label": "pgadmin",  "onAutoForward": "notify" }
+  },
+  "otherPortsAttributes": { "onAutoForward": "ignore" }
+}
