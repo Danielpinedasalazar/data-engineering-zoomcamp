@@ -7,8 +7,8 @@ My work-in-progress repo for [DataTalksClub's Data Engineering Zoomcamp](https:/
 | # | Module | Status |
 |---|--------|--------|
 | 1 | [Containerization & Infrastructure as Code](01-docker-terraform) (Docker, Postgres, Terraform) | ✅ Done |
-| 2 | Workflow Orchestration | ⏳ In progress |
-| 3 | Data Warehouse (BigQuery) | ⏳ Pending |
+| 2 | [Workflow Orchestration](02-workflow-orchestration) (Kestra) | ✅ Done |
+| 3 | [Data Warehouse](03-data-warehouse) (BigQuery) | ✅ Done |
 | 4 | Analytics Engineering (dbt) | ⏳ Pending |
 | 5 | Batch Processing (Spark) | ⏳ Pending |
 | 6 | Streaming (Kafka) | ⏳ Pending |
